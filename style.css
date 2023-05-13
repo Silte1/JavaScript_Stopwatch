@@ -15,6 +15,7 @@ body{
     background-image: url("/image/tsvetoslav-hristov-QW-f6s9nFIs-unsplash.jpg");
     background-size: cover;
     background-position: top;
+    background-attachment: fixed;
 }
 
 /* .......................................... WATCH CONTAINER............................................ */
