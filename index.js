@@ -50,8 +50,8 @@ timeDisplay = () =>{
     let m = minutes < 10 ? "0" + minutes : minutes;
     let h = hours < 10 ? "0" + hours : hours;
 
-    hours.innerHTML = h
-    minutes.innerHTML = m
+    hour.innerHTML = h
+    minute.innerHTML = m
     second.innerHTML = s;
     ten.innerHTML = ms;
 
